@@ -24,17 +24,23 @@ Here is a simple **HTML & CSS** snippet from the project:
         h1 {
             color: #3498db;
         }
-        .btn {
-            background-color: #2ecc71;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            cursor: pointer;
-            font-size: 18px;
-        }
-        .btn:hover {
-            background-color: #27ae60;
-        }
+        background-color: #1abc9c; /* A refined teal color */
+    color: #ffffff; /* Text remains clean and readable */
+    padding: 12px 24px; /* Slightly larger for better prominence */
+    border: 2px solid #16a085; /* Adds definition to the button */
+    border-radius: 5px; /* Gives the button smooth corners */
+    font-size: 16px; 
+    font-weight: bold; 
+    cursor: pointer;
+    transition: all 0.3s ease-in-out; 
+}
+
+.btn:hover {
+    background-color: #16a085; /* A slightly darker hover color */
+    color: #ecf0f1; /* Text changes to a softer tone */
+    transform: scale(1.05); /* Adds a subtle zoom effect on hover */
+    border-color: #1abc9c; /* Border color lightens */
+}
     </style>
 </head>
 <body>
