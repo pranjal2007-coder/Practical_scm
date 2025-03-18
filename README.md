@@ -2,7 +2,7 @@
 # 🌟 My project
 
 ## 📌 Description
-A brief overview of the project and what it does.
+A brief overview of the project and what it does and show many projects made by us.
 
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
