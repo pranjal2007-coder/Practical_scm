@@ -7,7 +7,7 @@ A brief overview of the project and what it does and show many projects made by 
 ## 🎨 Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
 
-
+## code
 <!DOCTYPE html>
 <html lang="en">
 <head>
